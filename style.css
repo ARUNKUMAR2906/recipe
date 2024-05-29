@@ -39,11 +39,12 @@
   margin-top: 2%;
   margin-bottom: 2%;
   font-family: "Young Serif", serif;
-  font-weight: 400;
+  font-weight: 500;
   font-style: normal;
+  font-size: 30px;
 }
 .card-para {
-    font-size: 14px;
+    font-size: 17px;
     font-family: "Outfit", sans-serif;
     font-optical-sizing: auto;
     font-weight: 400;
@@ -51,7 +52,7 @@
 }
 .preparation{
     background-color: #f8ecf4;
-    padding: 4%;
+    padding: 5%;
     font-family: "Outfit", sans-serif;
     border-radius: 5px;
     margin-top: 4%;
@@ -61,23 +62,25 @@
 .p-title {
     color: #5F233C;
     font-weight: 600;
-    font-size: 16px;
+    font-size: 18px;
 }
 
 .p-list {
     padding: 6px;
-    margin-left: 4%;
+    margin-left: 8%;
+    margin-top: 2%;
 }
 .i-title {
-    margin-top: 2%;
-  margin-bottom: 2%;
+    margin-top: 4%;
+  margin-bottom: 4%;
   font-family: "Young Serif", serif;
   font-weight: 500;
   font-style: normal;
   color: #854732;
+  font-size: 25px;
 }
 .i-list {
-    font-size: 16px;
+    font-size: 17px;
     font-family: "Outfit", sans-serif;
     font-optical-sizing: auto;
     font-weight: 400;
@@ -96,7 +99,7 @@
 
 .b-5 {
     border: .5px solid rgb(193, 193, 193);
-    margin-top: 10px;
+    margin-top: 4%;
 }
 
 .n-table{
